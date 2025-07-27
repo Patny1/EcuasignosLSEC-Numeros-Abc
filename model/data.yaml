@@ -1,0 +1,47 @@
+path: C:\Users\natyc\PycharmProjects\LSECNumYolo_abc\dataset
+train: images/train
+val: images/val
+nc: 41
+names:
+  0: Nada # Índice 0
+  1: A
+  2: B
+  3: C
+  4: CH
+  5: D
+  6: E
+  7: F
+  8: G
+  9: H
+  10: I
+  11: J
+  12: K
+  13: L
+  14: LL
+  15: M
+  16: N
+  17: Ñ
+  18: O
+  19: P
+  20: Q
+  21: R
+  22: RR
+  23: S
+  24: T
+  25: U
+  26: V
+  27: W
+  28: X
+  29: Y
+  30: Z # Última letra, en el índice 30
+  31: Num1 # Primer número, en el índice 31
+  32: Num2
+  33: Num3
+  34: Num4
+  35: Num5
+  36: Num6
+  37: Num7
+  38: Num8
+  39: Num9
+  40: Num10 # Último número, en el índice 40
+
