@@ -39,7 +39,7 @@ import tkinter as tk
 from ultralytics import YOLO
 
 # Configuración
-model = YOLO('run/best.pt')
+model = YOLO('model/best.pt')
 
 
 CONFIDENCE_THRESHOLD = 0.60
