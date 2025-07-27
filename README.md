@@ -1,4 +1,4 @@
-# 🇪🇨 ECUASIGNOS – Reconocimiento de Números y Abecedario en Lengua de Señas Ecuatoriana (LSEC)
+# ECUASIGNOS – Reconocimiento de Números y Abecedario en Lengua de Señas Ecuatoriana (LSEC)
 
 Este proyecto implementa un sistema de reconocimiento en tiempo real de **números del 1 al 10** y **letras del abecedario** en **Lengua de Señas Ecuatoriana (LSEC)** usando **visión por computadora** y un modelo entrenado con **YOLOv10s** (Ultralytics).
 
